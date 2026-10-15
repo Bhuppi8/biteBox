@@ -1,8 +1,8 @@
-import { foodFireLogo } from "../constants";
+import biteboxLogo from "../assets/bitebox_logo.svg";
 
 const Title = () => (
   <a href="/">
-    <img className="logo" src={foodFireLogo} alt="Food Fire Logo" />
+    <img className="logo" src={biteboxLogo} alt="BiteBox" />
   </a>
 );
 
