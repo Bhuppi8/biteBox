@@ -350,9 +350,9 @@ For learning purposes.
 
  <!-- My Food App structure will look like this, 
             1) Header
-                - Logo
-                - Nav Items(right side)
-                - Cart
+                - Logo -- implemented 
+                - Nav Items(right side) --implemented
+                - Cart ----implemented
             2) Body
                 - Search bar
                 - Restaurants List
