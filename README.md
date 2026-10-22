@@ -349,18 +349,18 @@ Open `http://localhost:5173` in your browser.
 For learning purposes.
 
  <!-- My Food App structure will look like this, 
-            1) Header
-                - Logo -- implemented 
-                - Nav Items(right side) --implemented
-                - Cart ----implemented
-            2) Body
-                - Search bar
-                - Restaurants List
-                    - Restaurant card
-                        - Image
-                        - Name
-                        - Rating
-            3) Footer
-                - Links
-                - Copyrights
-        -->
+    1) Header
+        - Logo -- implemented 
+        - Nav Items(right side) --implemented
+        - Cart ----implemented
+    2) Body
+        - Search bar
+        - Restaurants List
+            - Restaurant card
+                - Image
+                - Name
+                - Rating
+    3) Footer
+        - Links
+        - Copyrights
+-->
